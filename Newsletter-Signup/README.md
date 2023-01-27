@@ -7,9 +7,9 @@ To run this project you need to add your own mailchimp keys to the file called "
 
 
 # Run the application
-Install dependencies with "npm install" or "yarn install"
-To run the server "node app.js"
-Lauch the application using http://localhost:3000/ 
+Install dependencies with "npm install" or "yarn install".
+To run the server "node app.js".
+Launch the application using http://localhost:3000/ .
 
 # Note 
 This project is not hosted on any server yet.
