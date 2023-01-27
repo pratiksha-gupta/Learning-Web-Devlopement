@@ -3,7 +3,7 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## ChatWindow
- It create user chat user windows , which allows then to interact and use the 
+ It create chat windows for users, which allows then to interact and use the appropriate colors of their texts.
 
 ## Available Scripts
 
